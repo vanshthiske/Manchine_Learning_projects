@@ -10,9 +10,6 @@ Each project is developed with a focus on:
 
 ---
 
-
----
-
 ## 🚀 Projects Overview  
 
 ### 🔹 [Project 1: Classification Model](./Project-1)  

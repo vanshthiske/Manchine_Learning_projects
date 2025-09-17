@@ -12,7 +12,7 @@ Each project is developed with a focus on:
 
 ## 🚀 Projects Overview  
 
-### 🔹 [Project 1: Classification Model](./Project-1)  
+### 🔹 [Project 1: Coffee dataset Clustring](./Project-1)  
 📌 Build a **classification model** to predict outcomes from structured data  
 ✔ Preprocessing | ✔ Model Training | ✔ Evaluation  
 **Tech:** `Scikit-Learn` · `Logistic Regression` · `Random Forest`  
